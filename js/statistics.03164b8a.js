@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["statistics"],{"93c5":function(t,n,c){"use strict";c.r(n);var e=c("7a23");function s(t,n,c,s,i,a){return Object(e["H"])(),Object(e["l"])("div",null,"Statistics Template")}var i={},a=c("6b0d"),r=c.n(a);const o=r()(i,[["render",s]]);n["default"]=o}}]);
-//# sourceMappingURL=statistics.03164b8a.js.map
